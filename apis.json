@@ -1,0 +1,52 @@
+{
+    "name": "Weather2020",
+    "description": "<p>Weather2020 is the first and only source capable of producing accurate, long-range forecasts for businesses and consumers. Our robust weather API allows you to integrate our forecasts and videos easily into your mobile apps and websites.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Weather2020-Logo.png",
+    "tags": [
+        "have api",
+        "weather"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/weather2020\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Weather2020",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Weather2020-Logo.png",
+            "humanURL": "http:\/\/weather2020.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/weather2020-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/weather2020.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/weather2020.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/weather2020.com\/api\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/weather2020"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/weather2020.com"
+        }
+    ]
+}
